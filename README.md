@@ -1,4 +1,4 @@
-HuKlaT5 uses the ProtT5 protein language model with low-rank adaptation (LoRA) for human lysine lactylation (Kla) site prediction. This repository provides benchmark data, fine-tuned parameters, and a prediction script.
+HuKlaT5 uses the ProtT5 protein language model with low-rank adaptation (LoRA) for human lysine lactylation (Kla) site prediction. This repository provides benchmark data, fine-tuned parameters, and prediction script.
 
 
 ## Requirements
